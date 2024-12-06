@@ -17,3 +17,8 @@ Ce jeu ludique, qui combine visuels dynamiques et interaction, est conçu pour a
 à la fois amusement et surprise.
 
 Plongez dans l'univers des vagues et des images aléatoires, et voyez si vous pouvez décrocher la victoire tout en appréciant **l'animation d'un océan en mouvement** !
+
+## Démarer l'application
+`npm install`
+et puis
+`npm start`
