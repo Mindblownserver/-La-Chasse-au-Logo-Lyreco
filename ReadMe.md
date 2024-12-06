@@ -1,4 +1,5 @@
 # À la Chasse Au Logo pour Lyreco
+## Description
 Dans cette application, chaque image est une partie d'un jeu interactif qui vous plonge dans une expérience
 visuelle unique. L'objectif est simple : cliquez sur une image spécifique pour gagner ! 
 
